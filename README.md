@@ -2,6 +2,8 @@
 <h3 align="center">An aspiring full stack developer</h3>
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanufsd&label=Profile%20views&color=0e75b6&style=flat" alt="shantanufsd" /> </p>
+
 <p>I'm an IT grad 🎓with a passion for creating beautiful functional web applications 🌐. I'm honing my skills in front-end & back-end web development 💻 and I'm eager to learn and grow in the field 🌱. </p>
 <p>When I'm not coding, I like to</p>
 <ul>
@@ -16,7 +18,6 @@
 <a href="https://linkedin.com/in/shantanu-pratap-07546b1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-pratap-07546b1b6" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16643471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shantanufsd" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shantanufsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shantanufsd" height="30" width="40" /></a>
-<a href="https://instagram.com/codershantanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codershantanu" height="30" width="40" /></a>
 <a href="https://discord.com/users/1074971576484765696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shantanufsd" height="30" width="40" /></a>
 </p>
 
